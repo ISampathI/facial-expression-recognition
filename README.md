@@ -1,3 +1,5 @@
+# Human Facial Expression Recognition
+
 ## Introduction and Problem Statement
 Human facial expression recognition (FER) is one of the most powerful and challenging 
 tasks in social communication. In general, facial expressions are a natural and direct 
